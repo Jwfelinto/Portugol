@@ -1,8 +1,6 @@
-Algoritmo "Trabalhando co tipos de vriáveis"
-//
+Algoritmo "Trabalhando co tipos de vriÃ¡veis"
 
 Var
-// Seção de Declarações das variáveis 
 nome: literal
 sobrenome: literal
 nomecompleto: literal
@@ -11,7 +9,6 @@ nomecompleto: literal
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
    Escreval("Informe seu nome:")
    leia(nome)
    Escreval("Escreva seu sobrenome:")
